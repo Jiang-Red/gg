@@ -203,6 +203,7 @@ func LoadFontFace(path string, points float64) (face font.Face, err error) {
 	}
 	face, err = opentype.NewFace(fnf, &opentype.FaceOptions{
 		Size: points,
+		DPI:  72,
 		// Hinting: font.HintingFull,
 	})
 	return
@@ -222,6 +223,7 @@ func ParseFontFace(b []byte, points float64) (face font.Face, err error) {
 	}
 	face, err = opentype.NewFace(fnf, &opentype.FaceOptions{
 		Size: points,
+		DPI:  72,
 		// Hinting: font.HintingFull,
 	})
 	return
