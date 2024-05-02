@@ -4,7 +4,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/FloatTech/gg"
+	"github.com/Jiang-Red/gg"
 )
 
 func TestSpiral(t *testing.T) {

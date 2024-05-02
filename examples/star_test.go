@@ -4,7 +4,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/FloatTech/gg"
+	"github.com/Jiang-Red/gg"
 )
 
 func Polygon4(n int, x, y, r float64) []gg.Point {

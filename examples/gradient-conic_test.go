@@ -4,7 +4,7 @@ import (
 	"image/color"
 	"testing"
 
-	"github.com/FloatTech/gg"
+	"github.com/Jiang-Red/gg"
 )
 
 func TestGC(t *testing.T) {

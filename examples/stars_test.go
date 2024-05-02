@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/FloatTech/gg"
+	"github.com/Jiang-Red/gg"
 )
 
 func Polygon(n int) []gg.Point {

@@ -4,7 +4,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/FloatTech/gg"
+	"github.com/Jiang-Red/gg"
 	"github.com/golang/freetype/truetype"
 	"golang.org/x/image/font/gofont/goregular"
 )

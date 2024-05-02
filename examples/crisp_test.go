@@ -3,7 +3,7 @@ package main
 import (
 	"testing"
 
-	"github.com/FloatTech/gg"
+	"github.com/Jiang-Red/gg"
 )
 
 func TestCrisp(t *testing.T) {

@@ -1,4 +1,4 @@
-module github.com/FloatTech/gg
+module github.com/Jiang-Red/gg
 
 go 1.19
 

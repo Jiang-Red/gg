@@ -4,7 +4,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/FloatTech/gg"
+	"github.com/Jiang-Red/gg"
 )
 
 func TestMask(t *testing.T) {
